@@ -1,0 +1,12 @@
+first part
+1- open cmd in the folder
+2- py -m venv *nome da venv*
+3- cd *nome da venv*
+4- cd Scripts
+5- activate
+6- cd.. 2x
+
+second part
+1 - pip install requests
+2- pip freeze (to show the libraries that have been installed)
+3- pip freeze > *name*.txt (to save the libraries in a txt, as you may need it later)
